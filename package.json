@@ -1,13 +1,13 @@
 {
-  "name": "foodie",
+  "name": "dine-spot",
   "version": "1.0.0",
-  "description": "this is foodie app by namaste react",
+  "description": "this is dine-spot app built by Lalit Kumar Yadav",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
     "test": "jest"
   },
-  "author": "Ayush Gupta",
+  "author": "Lalit Kumar Yadav",
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.13.1",

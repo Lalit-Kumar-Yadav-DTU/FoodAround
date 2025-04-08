@@ -12,10 +12,10 @@ const Footer = () => {
   return (
     <div className="mt-auto flex bg-pink-200 p-5 justify-between">
       <div>
-        <span className="text-2xl font-semibold text-gray-800">FOODIE</span>
+        <span className="text-2xl font-semibold text-gray-800">Dine Spot</span>
       </div>
       <div className="flex space-x-4">
-        <span className="font-semibold text-lg">Created by- Ayush Gupta</span>
+        <span className="font-semibold text-lg">Created by- Lalit Kumar Yadav</span>
         <div onClick={handleAvatarClick}>
           <img
             className="w-8 rounded-xl cursor-pointer"

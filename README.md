@@ -1,4 +1,4 @@
-# React Foodie
+# React Dine-Spot
 
 # Parcel
 
