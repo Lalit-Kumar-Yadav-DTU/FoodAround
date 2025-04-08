@@ -7,13 +7,11 @@ export const LOGO_URL =
 export const MENU_URL =
   "https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=28.6958531&lng=77.0805496&restaurantId=";
 
-export const AVATAR = "https://avatars.githubusercontent.com/u/175679849?v=4";
 
 export const GITHUB = "https://github.com/Lalit-Kumar-Yadav-DTU/FoodAround";
 
 export const LINKEDIN = "https://www.linkedin.com/in/lalit-kumar-yadav-75a804297/";
 
-// export const PORTFOLIO = "https://portfolio-ayush-gupta.vercel.app/";
 
 export const GROCERY =
   "https://cdn-icons-png.flaticon.com/512/7592/7592261.png";
