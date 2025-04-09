@@ -15,6 +15,7 @@ import Footer from "./components/Footer";
 
 const Grocery = lazy(() => import("./components/Grocery"));
 
+//app layout
 const AppLayout = () => {
   return (
     <Provider store={appstore}>
